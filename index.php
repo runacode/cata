@@ -1,4 +1,4 @@
-<?php $company = "Catamount Plumbing & Heating";
+<?php $company = "Catamount Plumbing and Heating";
 $phone = "(802) 369-9123";
 	$address1 = "32 CREEK GLN";
 	$address2 = "COLCHESTER, VT 05446";
