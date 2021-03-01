@@ -1,7 +1,7 @@
-<?php $company = "T AND M LANDSCAPING";
-$phone = "(719) 948-1559";
-	$address1 = "563 S PUEBLO BLVD";
-	$address2 = "PUEBLO, CO 81005";
+<?php $company = "Catamount Plumbing & Heating";
+$phone = "(802) 369-9123";
+	$address1 = "32 CREEK GLN";
+	$address2 = "COLCHESTER, VT 05446";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
